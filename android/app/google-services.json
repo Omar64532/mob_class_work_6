@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466561001817",
+    "project_id": "mobcw6",
+    "storage_bucket": "mobcw6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466561001817:android:bd201b91c57de90f520448",
+        "android_client_info": {
+          "package_name": "com.example.mob_class_work_6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4dz5rhzF3CV-YYLMXZ75IlhVBiUtDo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
